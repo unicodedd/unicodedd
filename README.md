@@ -7,7 +7,7 @@ I’m a 16-year-old student learning how to code. I go to **Antonio Meucci Schoo
 ## 🎉 About Me
 - 🏫 **School:** Antonio Meucci, Castelfidardo  
 - 💻 **Learning:** How to code in C++ and Python  
-- 🏊 **Swimmer:** I swim for Nandi Ars Loreto  
+- ~🏊 **Swimmer:** I swim for Nandi Ars Loreto~
 - 🌟 **Hobbies:** Swimming, coding, and learning new things  
 
 ---
