@@ -20,4 +20,4 @@ I’m a 16-year-old student learning how to code. I go to **Antonio Meucci Schoo
 ---
 
 ## 📫 Let’s Talk!
-If you like coding or swimming, I’d love to talk about it. Thanks for stopping by my profile!
+If you like coding, I’d love to talk about it. Thanks for stopping by my profile!
